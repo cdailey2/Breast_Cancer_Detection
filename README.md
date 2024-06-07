@@ -1,10 +1,10 @@
 # Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics
 
 ## Objective
-This project aims to create verbose supervised machine learning models to detect malignant breast cancer tumors based on cellular characteristics and compare and contrast strengths and weaknesses of respective models as well as discuss possible use cases within the medical field. More on the rationale for this project can be found in the [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
+This project aims to create verbose supervised machine learning models with good practice to detect malignant breast cancer tumors based on cellular characteristics and compare and contrast strengths and weaknesses of respective models as well as discuss possible use cases within the medical field. More on the rationale for this project can be found in the [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
 
 ## Technologies
-Jupyter Notebook was used packed with a number of data manipulation and analysis and machine learning libraries including as numpy, pandas, matplotlib, seaborn, and sklearn. More on this can be found in the [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
+Jupyter Notebook was used packed with a number of data manipulation and analysis and machine learning libraries including numpy, pandas, matplotlib, seaborn, and sklearn. More on this can be found in the [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
 
 ## Project Overview
 ### Data Dictionary
@@ -36,4 +36,10 @@ Jupyter Notebook was used packed with a number of data manipulation and analysis
 **2. Artificial Neural Network**
 <br>
   - (In Progress...)
+<br>
 
+## Important Files<br>
+
+- [main.ipynb](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/src/main.ipynb)
+- [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md)
+- [works cited](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/works_cited.md)
