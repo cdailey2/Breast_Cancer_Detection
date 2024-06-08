@@ -33,7 +33,7 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 
 <br>
 
-### Data Cleaning and Validation
+### Data Collection, Storage, Cleaning, and Validation
 - Details in [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
 
 <br>
