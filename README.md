@@ -54,3 +54,24 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 - [main.ipynb](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/src/main.ipynb)
 - [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md)
 - [works cited](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/works_cited.md)
+
+<br>
+
+## Works Cited<br>
+Wolberg, Wi. (1992). Breast Cancer Wisconsin (Original). UCI Machine Learning Repository. https://doi.org/10.24432/C5HP4Z
+
+<br>
+
+World Health Organization. (n.d.). WHO launches new roadmap on breast cancer. Www.who.int. https://www.who.int/news/item/03-02-2023-who-launches-new-roadmap-on-breast-cancer#:~:text=In%2095%25%20of%20countries%2C%20breast
+
+<br>
+
+World Health Organization. (2022, February 3). Cancer. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/cancer
+
+<br>
+
+Zhang, B., Shi, H., & Wang, H. (2023). Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach. Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach, Volume 16(16), 1779–1791. https://doi.org/10.2147/jmdh.s410301
+
+
+
+
