@@ -30,6 +30,7 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 11. Class:                        (2 for benign, 4 for malignant)
 
 (Wolberg, 1992)
+
 <br>
 
 ### Data Cleaning and Validation
