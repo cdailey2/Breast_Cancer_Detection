@@ -1,5 +1,12 @@
 # Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics
 
+**Important Files**
+
+- [main.ipynb](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/src/main.ipynb)
+- [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md)
+- [works cited](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/works_cited.md)
+---
+
 ## Objective
 This project aims to create verbose supervised machine learning models with good practice to detect malignant breast cancer tumors based on cellular characteristics and compare and contrast strengths and weaknesses of respective models as well as discuss possible use cases within the medical field. 
 
@@ -16,7 +23,6 @@ Jupyter Notebook was used packed with a number of data manipulation and analysis
 1. [Data Dictionary](#data-dictionary)
 1. [Data Collection, Storage, Cleaning, and Validation](#data-collection-storage-cleaning-and-validation)
 1. [Machine Learning Models](#machine-learning-models)
-1. [Important Files](#important-files)
 1. [Works Cited](#works-cited)
 
 ---
@@ -57,13 +63,6 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 **2. Artificial Neural Network**
 <br>
   - (In Progress...)
-<br>
-
-### Important Files<br>
-
-- [main.ipynb](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/src/main.ipynb)
-- [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md)
-- [works cited](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/works_cited.md)
 
 <br>
 
