@@ -14,5 +14,3 @@ notebook_json = json.dumps(notebook_content, indent=4)
 
 # Print the JSON string
 print(notebook_json)
-
-# Copy and paste to intended branch to be merged with main
