@@ -1,12 +1,5 @@
 # Exploring the Efficacy of Supervised Machine Learning Models in Breast Cancer Detection Based on Cellular Characteristics
 
-**Important Files**
-
-- [main.ipynb](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/src/main.ipynb)
-- [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md)
-- [works cited](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/works_cited.md)
----
-
 ## Objective
 This project aims to create verbose supervised machine learning models with good practice to detect malignant breast cancer tumors based on cellular characteristics and compare and contrast strengths and weaknesses of respective models as well as discuss possible use cases within the medical field. 
 
