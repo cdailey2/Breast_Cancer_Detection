@@ -50,13 +50,16 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 ### Machine Learning Models
 **1. Random Forest** 
 <br>
-  - (In Progress...)
+<img src="https://i.imgur.com/bRQjtRc.png">
+<br>
+<img src="https://i.imgur.com/dS2c8kH.png">
 <br>
 
 **2. Artificial Neural Network**
 <br>
-  - (In Progress...)
+<img src="https://i.imgur.com/HbW0QRR.png">
 
+<img src="https://i.imgur.com/zZ5eFvz.png">
 <br>
 
 ### Works Cited<br>
