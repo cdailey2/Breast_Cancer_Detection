@@ -6,7 +6,7 @@ This project aims to create verbose supervised machine learning models with good
 <br>
 
 ## Technologies
-Jupyter Notebook was used packed with a number of data manipulation and analysis and machine learning libraries including numpy, pandas, matplotlib, seaborn, and sklearn. More on this can be found in the [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
+Jupyter Notebook was used packed with a number of data manipulation and analysis and machine learning libraries including numpy, pandas, matplotlib, seaborn, and sklearn. 
 
 <br>
 
@@ -43,23 +43,30 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <br>
 
 ### Data Collection, Storage, Cleaning, and Validation
-- Details in [project documentation](https://github.com/cdailey2/Breast_Cancer_Detection/blob/main/docs/project_documentation.md).
 
 <br>
 
 ### Machine Learning Models
+<p>Two models were developed: a Random Forest model and an Artificial Neural Network (ANN). The following figures present accuracy metrics used to evaluate the performance of each model.</p>
+
 **1. Random Forest** 
+<p>The random forest model was created using 70% of the total data as training data and 30% of the total data as test data. Hyperparameters were tuned empirically through an extensive grid search with 3-fold cross-validation</p>
 <br>
+<p><b>Figure 1</b> displays a confusion matrix below shows the results of testing the Random Forest model using the test data, which was separate from the training data. The model demonstrated exceptional performance.</p>
 <img src="https://i.imgur.com/bRQjtRc.png">
-<br>
+<sub><b>Figure 1</b>. Random Forest Confusion Matrix - Testing the model with test data</sub>
+<p></p>
+<p><b>Figure 2</b> displays a classification report in table format, displaying the results of testing the model </p>
 <img src="https://i.imgur.com/dS2c8kH.png">
-<br>
+<sub><b>Figure 2</b>. Random Forest Classification Report - Testing the model with test data</sub>
 
 **2. Artificial Neural Network**
 <br>
+<p><b>Figure 3</b> displays a confusion matrix below shows the results of testing the neural network model using the test data, which was separate from the training data. The model demonstrated exceptional performance as well. However, this model was slightly less accurate than the random forest </p>
 <img src="https://i.imgur.com/HbW0QRR.png">
 
 <img src="https://i.imgur.com/zZ5eFvz.png">
+
 <br>
 
 ### Works Cited<br>
