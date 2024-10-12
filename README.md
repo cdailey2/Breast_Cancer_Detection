@@ -59,6 +59,7 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <p><b>Figure 2</b> displays a classification report in table format, displaying the results of testing the random forest model </p>
 <img src="https://i.imgur.com/dS2c8kH.png">
 <sub><b>Figure 2</b>. Random Forest Classification Report - Testing the model with test data</sub>
+<p></p>
 
 **2. Artificial Neural Network**
 <p>As with the random forest model, the artificial neural network was created using 70% of the total data as training data and 30% of the total data as test data. Hyperparameters were tuned via elbow finding using a loss curve along with some manual empirical testing.</p>
@@ -71,6 +72,11 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <img src="https://i.imgur.com/zZ5eFvz.png">
 <sub><b>Figure 4</b>. Artificial Neural Network Classification Report - Testing the model with test data</sub>
 <br>
+
+
+### Comparative Analysis of Models
+<p></p>
+
 
 ### Works Cited<br>
 Wolberg, Wi. (1992). Breast Cancer Wisconsin (Original). UCI Machine Learning Repository. https://doi.org/10.24432/C5HP4Z
