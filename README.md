@@ -75,7 +75,7 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 
 
 ### Comparative Analysis of Models
-<p>Before comparing the models, it is first important to define which accuracy metric this should be guaged off of. Medical care is a very high stakes field. Getting both false-negatives and false-positives can be argued as equally detrimental. If the models mis-predict the benign class, patients may be led to not pursue treatment that they are in desperate need of. On the other hand, if models mispredict the malignant class, then patients may be led to pursue difficult, expensive and possibly life-changing treatment that they are not in need of. Therefore, I have concluded that f1-score and accuracy are the most important metrics.</p>
+<p>Before comparing the models, it is first important to define which accuracy metric this should be guaged off of. Medical care is a very high stakes field. Getting both false-negatives and false-positives can be argued as equally detrimental. If the models mis-predict the benign class, patients may be led to not pursue treatment that they are in desperate need of. On the other hand, if models mispredict the malignant class, then patients may be led to pursue difficult, expensive and possibly life-changing treatment that they are not in need of. Therefore, I have concluded that total accuracy is the most important metric.</p>
 
 <p></p>
 
