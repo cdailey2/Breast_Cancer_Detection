@@ -56,17 +56,20 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <img src="https://i.imgur.com/bRQjtRc.png">
 <sub><b>Figure 1</b>. Random Forest Confusion Matrix - Testing the model with test data</sub>
 <p></p>
-<p><b>Figure 2</b> displays a classification report in table format, displaying the results of testing the model </p>
+<p><b>Figure 2</b> displays a classification report in table format, displaying the results of testing the random forest model </p>
 <img src="https://i.imgur.com/dS2c8kH.png">
 <sub><b>Figure 2</b>. Random Forest Classification Report - Testing the model with test data</sub>
 
 **2. Artificial Neural Network**
+<p>As with the random forest model, the artificial neural network was created using 70% of the total data as training data and 30% of the total data as test data. Hyperparameters were tuned via elbow finding using a loss curve along with some manual empirical testing.</p>
 <br>
 <p><b>Figure 3</b> displays a confusion matrix below shows the results of testing the neural network model using the test data, which was separate from the training data. The model demonstrated exceptional performance as well. However, this model was slightly less accurate than the random forest </p>
 <img src="https://i.imgur.com/HbW0QRR.png">
-
+<sub><b>Figure 3</b>. Artificial Neural Network Confusion Matrix - Testing the model with test data</sub>
+<p></p>
+<p><b>Figure 4</b> displays a classification report in table format, displaying the results of testing the ANN model </p>
 <img src="https://i.imgur.com/zZ5eFvz.png">
-
+<sub><b>Figure 4</b>. Artificial Neural Network Classification Report - Testing the model with test data</sub>
 <br>
 
 ### Works Cited<br>
