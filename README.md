@@ -16,6 +16,7 @@ Jupyter Notebook was used packed with a number of data manipulation and analysis
 1. [Data Dictionary](#data-dictionary)
 1. [Data Collection, Storage, Cleaning, and Validation](#data-collection-storage-cleaning-and-validation)
 1. [Machine Learning Models](#machine-learning-models)
+1. [Comparative Analysis of Models](#comparative-analysis-of-models)
 1. [Works Cited](#works-cited)
 
 ---
