@@ -44,7 +44,8 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <br>
 
 ### Data Collection, Storage, Cleaning, and Validation
-The data were collected from the UC Irvine Machinee Learning Repository
+The data were collected from the <a href='https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original'>UC Irvine Machinee Learning Repository</a>. 
+
 <br>
 
 ### Machine Learning Models
