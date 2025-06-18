@@ -44,7 +44,7 @@ Cancer is a prominent issue within the healthcare system due to its high inciden
 <br>
 
 ### Data Collection, Storage, Cleaning, and Validation
-The data were collected from the <a href='https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original'>UC Irvine Machinee Learning Repository</a>. 
+The dataset’s accuracy and reliability are strengthened by the fact that it comes from the <a href='https://archive.ics.uci.edu/'>University of California, Irvine (UCI) Machine Learning Repository</a>, a globally recognized source for curated datasets. The dataset is known as  <a href='https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original'>Breast Cancer Wisconsin (Original)</a>. The data were relativeely clean, however, the dataset contained duplicates, as well as special characters ("?") for missing data. All of these were removed. Data is tied to a unique ID, meaning that all duplicates were actual duplicates (rather than just having identical data tied to them). Removing them would therefore inhibit accidental data skewing. Furthermore, rows with special characters were removed due to the fact that all data are discrete integers, meaning that it would not make sense to replace them with an average. 
 
 <br>
 
